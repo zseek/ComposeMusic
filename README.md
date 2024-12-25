@@ -12,6 +12,7 @@
 此项目基 [NeteaseCloudMusicApi](https://gitlab.com/Binaryify/neteasecloudmusicapi) 项目自部署作为API, 使用 Jetpack Compose构建的音乐播放器应用, 采用现代 Android 开发技术栈，通过实践来深入理解
 Compose 声明式 UI 的开发模式
 
+此项目需在 di/AppModule 下配置 NeteaseCloudMusicApi 的后端地址
 
 ## 功能展示
 
