@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ComposeMusic</string>
+
+    <!--navigation bottom bar-->
+    <string name="bottom_recommend_page">推荐</string>
+    <string name="bottom_radiostation_page">电台</string>
+    <string name="bottom_rank_page">榜单</string>
+    <string name="bottom_finding_page">发现</string>
+    <string name="bottom_mine_page">我的</string>
+
+    <!--drawer-->
+    <string name="drawer_personal_info">个人信息</string>
+    <string name="drawer_player_ist">播放列表</string>
+    <string name="drawer_recent_play">最近播放</string>
+    <string name="drawer_downloading">下载</string>
+    <string name="drawer_favorite">收藏</string>
+    <string name="drawer_setting">设置</string>
+    <string name="drawer_about">关于</string>
+    <string name="drawer_dark">深色模式</string>
+
+    <string name="default_username">用户名</string>
+
+
+    <string name="login_forget_password">忘记密码?</string>
+    <string name="login_button_text">登录</string>
+
+    <!--标题-->
+    <string name="songs">歌曲</string>
+    <string name="recommend">个性推荐</string>
+    <string name="recommend_Song">歌曲</string>
+    <string name="recommend_Playlist">歌单</string>
+    <string name="recommend_Albums">专辑</string>
+    <string name="recommend_Artist">艺术家</string>
+    <string name="artist">热门艺术家</string>
+    <string name="global_chart">推荐榜单</string>
+    <string name="rank">官方榜单</string>
+    <string name="radio_station">Broadcasting</string>
+    <string name="program">Program</string>
+    <string name="new_radio">NewRadio</string>
+    <string name="popular_radio">RadioRankings</string>
+    <string name="hot">热门电台</string>
+    <string name="top_search">热门搜索</string>
+    <string name="recent_search">最近搜索</string>
+    <string name="clear">清除</string>
+    <string name="cancel">取消</string>
+    <string name="information">Information</string>
+    <string name="similar">相似艺人</string>
+    <string name="about">关于</string>
+    <string name="profile">简介</string>
+
+    <string name="not_similar_mv">No similar Mv</string>
+    <string name="not_playlist">No playlists added</string>
+
+    <string name="download_number">同时下载数量</string>
+    <string name="download_path">下载路径</string>
+
+    <string name="login_out">退出登录</string>
+
+    <!--Icon Description-->
+    <string name="more">More</string>
+    <string name="follow">关注</string>
+
+    <string name="loading_failed">加载失败,请重试!</string>
+    <string name="not_found">Not Found!</string>
+</resources>
